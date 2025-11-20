@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug React App",
+            "type": "pwa-chrome",
+            "request": "launch",
+            "url": "http://localhost:7001",
+            "webRoot": "${workspaceFolder}/src",
+            "preLaunchTask": "Start React Dev"
+        }
+    ]
+}
