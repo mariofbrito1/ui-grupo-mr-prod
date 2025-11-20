@@ -1,0 +1,5 @@
+[build]
+command = "npm ci --legacy-peer-deps"
+
+[build.Environment]
+NODE_VERSION = "18"
